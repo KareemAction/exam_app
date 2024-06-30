@@ -15,6 +15,7 @@ import 'package:shop_app/Home/home_page_screen.dart';
 
 
  class MyApp extends StatefulWidget {
+  // app
   const MyApp({super.key});
 
   @override
